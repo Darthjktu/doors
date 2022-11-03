@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?x6vwiq');
+  src:  url('fonts/icomoon.eot?x6vwiq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?x6vwiq') format('truetype'),
+    url('fonts/icomoon.woff?x6vwiq') format('woff'),
+    url('fonts/icomoon.svg?x6vwiq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-filter:before {
+  content: "\e91d";
+}
+.icon-logo:before {
+  content: "\e91b";
+}
+.icon-mob_header_call:before {
+  content: "\e91c";
+}
+.icon-check:before {
+  content: "\e919";
+}
+.icon-female:before {
+  content: "\e91a";
+}
+.icon-print:before {
+  content: "\e910";
+}
+.icon-dl:before {
+  content: "\e911";
+}
+.icon-knob:before {
+  content: "\e912";
+}
+.icon-house:before {
+  content: "\e913";
+}
+.icon-eye:before {
+  content: "\e914";
+}
+.icon-arr_dd:before {
+  content: "\e915";
+}
+.icon-arr_d:before {
+  content: "\e916";
+}
+.icon-arr_next:before {
+  content: "\e917";
+}
+.icon-close:before {
+  content: "\e918";
+}
+.icon-search:before {
+  content: "\e901";
+}
+.icon-gauging:before {
+  content: "\e900";
+}
+.icon-cart:before {
+  content: "\e902";
+}
+.icon-card:before {
+  content: "\e903";
+}
+.icon-protection:before {
+  content: "\e904";
+}
+.icon-delivery:before {
+  content: "\e905";
+}
+.icon-man:before {
+  content: "\e906";
+}
+.icon-exemple:before {
+  content: "\e907";
+}
+.icon-door:before {
+  content: "\e908";
+}
+.icon-date:before {
+  content: "\e909";
+}
+.icon-arr:before {
+  content: "\e90a";
+}
+.icon-loc:before {
+  content: "\e90b";
+}
+.icon-mail:before {
+  content: "\e90c";
+}
+.icon-fb:before {
+  content: "\e90d";
+}
+.icon-vk:before {
+  content: "\e90e";
+}
+.icon-tw:before {
+  content: "\e90f";
+}
